@@ -10,3 +10,5 @@
 1. Установите live-server: npm install -g live-server;
 2. Перейдите в папку с проектом;
 3. Выполните команду: live-server
+
+![Image Gallery](https://sun9-7.userapi.com/impg/l-V2qxo_aeASO1vfTE3QOB0Dd8kmF_AlKBbXVQ/jwjbxzCDlCU.jpg?size=1894x948&quality=96&sign=2dcd3222d5a779ebdb8d0ae8566705bc&type=album)
